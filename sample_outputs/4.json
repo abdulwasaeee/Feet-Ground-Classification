@@ -1,0 +1,7 @@
+{
+  "classification": "Partially Grounded",
+  "confidence": 0.92,
+  "left_foot": "Fully Grounded",
+  "right_foot": "Not Grounded",
+  "floor_y": 1776
+}
