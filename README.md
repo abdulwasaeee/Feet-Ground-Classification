@@ -40,12 +40,4 @@ python app.py
 
 ## Example Output
 
-```json
-{
-  "classification": "Fully Grounded",
-  "confidence": 0.92,
-  "left_foot": "Fully Grounded",
-  "right_foot": "Fully Grounded",
-  "floor_y": 1713
-}
-```
+<img width="1884" height="918" alt="Screenshot 2026-02-11 173600" src="https://github.com/user-attachments/assets/e4e16d0d-6df5-4266-b5d3-daac14244dd5" />
